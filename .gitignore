@@ -68,7 +68,5 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
-# Python environment
-pointzinhosfrontenv
-
 # Others
+package-lock.json
